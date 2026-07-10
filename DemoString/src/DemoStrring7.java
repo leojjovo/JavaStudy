@@ -1,0 +1,2 @@
+public class DemoStrring7 {
+}
